@@ -72,6 +72,7 @@ Amazon EC2 is hosted in multiple locations world-wide. These locations are compo
 1. [Wavelength Zone](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html#concepts-wavelength-zones)
     * A Wavelength Zone is an isolated zone in the carrier location where the Wavelength infrastructure is deployed. Wavelength Zones are tied to a Region. 
     * A Wavelength Zone is a logical extension of a Region, and is managed by the control plane in the Region.
+    * Wavelength deploys standard AWS compute and storage services to the edge of telecommunication carriers' 5G networks
 1. [Global Edge Network](https://aws.amazon.com/cloudfront/features/?p=ugi&l=na&whats-new-cloudfront.sort-by=item.additionalFields.postDateTime&whats-new-cloudfront.sort-order=desc) 
     * Amazon CloudFront peers with thousands of Tier 1/2/3 telecom carriers globally.
     * CloudFront is well connected with all major access networks for optimal performance, and has hundreds of terabits of deployed capacity. 
