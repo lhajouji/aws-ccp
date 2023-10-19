@@ -73,6 +73,10 @@ Use the search feature for easy access.
 1. [Organizational units](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_ous.html)
     * Use organizational units (OUs) to group accounts  with similar business or security requirements together to administer as a single unit.
 
+1. [Service Control Policies](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html)
+    * Service control policies (SCPs) are a type of organization policy that you can use to manage permissions in your organization.
+    * SCPs can be applied to individual accounts or OUs (When applied to OUs, all AWS accounts within the OU inherit the policies ).
+
 
 ## Security Services
 
