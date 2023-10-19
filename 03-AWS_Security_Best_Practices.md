@@ -82,7 +82,7 @@ Use the search feature for easy access.
 
 1. [WAF](https://aws.amazon.com/waf/) : XSS SQL-Injection 
     * WAF is a Web Application Firewall that can protect against common attacks such as XSS or SQL injection.
-    * Protects the following AWS resources
+    * Protects the following AWS resources : 
       1. CloudFront distributions
       2. API Gateway
       3. Application Load Balancer
