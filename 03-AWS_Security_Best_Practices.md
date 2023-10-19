@@ -91,7 +91,7 @@ Use the search feature for easy access.
       6. AWS App Runner service
       7. AWS Verified access instance
 1. [Shield](https://aws.amazon.com/shield/) DDOS 
-    * AWS Shielf is a managed DDOS protection service. Sheild standard is free but Sheild Advanced provides access to AWS experts for a fee.
+    * AWS Shield is a managed DDOS protection service. Shield standard is free but Shield Advanced provides access to AWS experts for a fee.
     * DDOS protections from CloudFront, Route53, Elastic Load Balancing, and AWS Global Accelerator.
     * Receive real-time notifications of suspected DDoS incidents via CloudWatch metrics and assistance from AWS during the attack.
     * Automatically scrub bad traffic at specific layers: layer 3,4 and 7. Minimize application downtime and latency. Monitor and protect up to 1000 resource types.
