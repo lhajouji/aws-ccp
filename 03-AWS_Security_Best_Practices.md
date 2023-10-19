@@ -118,5 +118,17 @@ Use the search feature for easy access.
     * SSL/TLS certificates are supported.
     * Use key management for certs and get managed certificate renewal.
     * Integrates with Elastic Load Balancing, API Gateway and more.
+      
+# Compliance : 
+
+* AWS Compliance Center :
+  The AWS Compliance Center is a central location to research cloud-related regulatory requirements and how they impact your industry. Select the country you are interested in, and the AWS Compliance Center will display the country’s regulatory position regarding the adoption of cloud services. AWS has customers throughout the world and is continually adapting to evolving regulations, so please contact us if your country of interest is not listed and you would like more information about AWS.
+
+* AWS Audit Manager :
+Continually audit your AWS usage to simplify risk and compliance assessment.
+Use AWS Audit Manager to map your compliance requirements to AWS usage data with prebuilt and custom frameworks and automated evidence collection.
+
+
+
 
 ##  [BACK](02-AWS_Shared_Responsibility_Model.md)  |  [NEXT](./04-AWS_Costs_Economics_Billing.md)
