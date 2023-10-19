@@ -31,7 +31,7 @@ The following cloud terminology is important for the exam:
 ### Cloud Computing Models
 
 1. IaaS: Infrastructure as a Service e.g.EC2
-1. PaaS: Platform as a Service e.g. Cloud9
+1. PaaS: Platform as a Service e.g. Cloud9, AWS EKS 
 1. SaaS: Software as a Service e.g. Sagemaker
 
 [Click Here for details](https://aws.amazon.com/what-is-cloud-computing/?pg=TOCC)
