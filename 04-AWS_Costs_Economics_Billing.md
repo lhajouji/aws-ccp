@@ -1,6 +1,6 @@
 # AWS Costs, Economics and Billing Practices
 
-_16% of the exam_questions about 8-10 questions_
+_12% of the exam_questions about 8-10 questions_
 
 * [EC2 Instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-purchasing-options.html) are [priced](https://aws.amazon.com/ec2/pricing/) as follows
     * On-Demand: EC2 capacity billed to the second.
