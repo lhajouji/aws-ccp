@@ -82,6 +82,14 @@ Use the search feature for easy access.
 
 1. [WAF](https://aws.amazon.com/waf/) : XSS SQL-Injection 
     * WAF is a Web Application Firewall that can protect against common attacks such as XSS or SQL injection.
+    * Protects the following AWS resources
+      1. CloudFront distributions
+      2. API Gateway
+      3. Application Load Balancer
+      4. AWS AppSync GraphQL API
+      5. Amazon Cognito user pool
+      6. AWS App Runner service
+      7. AWS Verified access instance
 1. [Shield](https://aws.amazon.com/shield/) DDOS 
     * AWS Shielf is a managed DDOS protection service. Sheild standard is free but Sheild Advanced provides access to AWS experts for a fee.
     * DDOS protections from CloudFront, Route53, Elastic Load Balancing, and AWS Global Accelerator.
