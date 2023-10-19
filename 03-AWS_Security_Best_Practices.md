@@ -65,6 +65,14 @@ Use the search feature for easy access.
     * How to limit access to an Amazeon S3 to specific users only? You can add a bucket access policy directly to an Amazon S3 bucket to grant IAM users accesss. I wonder if there is another way, create a special bucket access group with policy to the group, and then add users to the group. Or add users to the policy directly.
 1. IAM Credentials Report 
     * Assistance with compliance and auditing by offering a downloadable report that lists all your IAM users in this account and the status of their various credentials including MFA devices in your account.
+# Organizations 
+
+1. [Organizations]([https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html](https://aws.amazon.com/organizations/))
+    * AWS Organizations lets you create new AWS accounts at no additional charge. With accounts in an organization, you can easily allocate resources, group accounts, and apply governance policies to accounts or groups.
+
+1. [Organizational units](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_ous.html))
+    * Use organizational units (OUs) to group accounts  with similar business or security requirements together to administer as a single unit.
+
 
 ## Security Services
 
