@@ -46,6 +46,7 @@ The following cloud terminology is important for the exam:
 Amazon EC2 is hosted in multiple locations world-wide. These locations are composed of AWS Regions, Availability Zones, Local Zones, AWS Outposts, and Wavelength Zones.
 1. [Region](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)
     * Is a separate geographic area. Therefore if one is impacted by a natural disaster, chances are that another will not.
+    * Each AWS Region consists of a minimum of three, isolated, and physically separate AZs within a geographic area.
     * Regions are fully independent.
     * Services and resources vary by region.
     * No automagic replication across regions. 
