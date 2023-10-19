@@ -1,6 +1,6 @@
 # AWS Security Best Practices
 
-_This is 25% of the weight of the exam_
+_This is 30% of the weight of the exam_
 
 ## Root User
 * Automatically created when you create an AWS account.
