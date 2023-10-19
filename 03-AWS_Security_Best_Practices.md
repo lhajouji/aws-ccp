@@ -67,10 +67,10 @@ Use the search feature for easy access.
     * Assistance with compliance and auditing by offering a downloadable report that lists all your IAM users in this account and the status of their various credentials including MFA devices in your account.
 # Organizations 
 
-1. [Organizations]([https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html](https://aws.amazon.com/organizations/))
+1. [Organizations](https://aws.amazon.com/organizations/)
     * AWS Organizations lets you create new AWS accounts at no additional charge. With accounts in an organization, you can easily allocate resources, group accounts, and apply governance policies to accounts or groups.
 
-1. [Organizational units](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_ous.html))
+1. [Organizational units](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_ous.html)
     * Use organizational units (OUs) to group accounts  with similar business or security requirements together to administer as a single unit.
 
 
