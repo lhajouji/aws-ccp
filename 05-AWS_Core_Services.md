@@ -1,4 +1,6 @@
 # AWS Core Services (and concepts)
+
+ 34% of the exam_questions about 8-10 questions
  The following concepts and list of AWS Core Services are essential to understand various layers of an architecture.
 AWS offers [Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/) tool to business and higher subscriptions.
     * Provides recommendations that help you follow AWS best practices.
