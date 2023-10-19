@@ -60,10 +60,10 @@ Amazon EC2 is hosted in multiple locations world-wide. These locations are compo
 1. [Data Center](https://aws.amazon.com/compliance/data-center/data-centers/)
     * Two or more data centers together are part of an AZ.
     * Each data center has protections across 4 layers:
-    * Perimeter - secured perimeter for physical access.
-    * Infrastrucutre - HVAC, power, fire suppression.
-    * Data - servers within the building, racked and stacked.
-    * Environment - site location, seismic data, flooding etc.
+          * Perimeter - secured perimeter for physical access.
+          * Infrastrucutre - HVAC, power, fire suppression.
+          * Data - servers within the building, racked and stacked.
+          * Environment - site location, seismic data, flooding etc.
 1. [Local Zones](https://aws.amazon.com/about-aws/global-infrastructure/localzones/)
     * A Local Zone is an extension of an AWS Region in geographic proximity to your users. 
     * Local Zones have their own connections to the internet and support AWS Direct Connect, so that resources created in a Local Zone can serve local users with low-latency communications. 
