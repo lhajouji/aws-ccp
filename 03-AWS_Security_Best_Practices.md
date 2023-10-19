@@ -119,7 +119,7 @@ Use the search feature for easy access.
     * Use key management for certs and get managed certificate renewal.
     * Integrates with Elastic Load Balancing, API Gateway and more.
       
-# Compliance : 
+# Compliance Services : 
 
 * [AWS Compliance Center](https://aws.amazon.com/financial-services/security-compliance/compliance-center/) :
   The AWS Compliance Center is a central location to research cloud-related regulatory requirements and how they impact your industry. Select the country you are interested in, and the AWS Compliance Center will display the country’s regulatory position regarding the adoption of cloud services. AWS has customers throughout the world and is continually adapting to evolving regulations, so please contact us if your country of interest is not listed and you would like more information about AWS.
