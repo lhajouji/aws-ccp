@@ -90,6 +90,8 @@ Use the search feature for easy access.
       5. Amazon Cognito user pool
       6. AWS App Runner service
       7. AWS Verified access instance
+1. [AWS Network Firewall](https://aws.amazon.com/network-firewall/):
+    * a stateful managed firewall and intrusion detection and prevention service for VPCs. It monitors traffic going into and out of a VPC.
 1. [Shield](https://aws.amazon.com/shield/) DDOS 
     * AWS Shield is a managed DDOS protection service. Shield standard is free but Shield Advanced provides access to AWS experts for a fee.
     * DDOS protections from CloudFront, Route53, Elastic Load Balancing, and AWS Global Accelerator.
